@@ -166,6 +166,10 @@ main {
 
 /* .feature product start 
 ========================= */
+.feature-prosuct {
+    margin-bottom: 70px;
+}
+
 .products {
     display: flex;
 }
@@ -194,7 +198,7 @@ main {
 =============== */
 footer {
     background-color: black;
-    height: 200px;
+    height: 250px;
 }
 
 .footer-start {
@@ -208,4 +212,13 @@ footer {
 
 .footer-details {
     color: white;
+}
+
+.footer-icon {
+    margin-top: 20px;
+}
+
+.footer-icon i {
+    color: white;
+    margin-left: 20px;
 }
