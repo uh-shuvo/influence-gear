@@ -156,3 +156,9 @@ main {
     font-weight: 700;
     margin-left: 12px;
 }
+
+.see {
+    margin-top: 40px;
+    text-align: right;
+    color: #E02C6D;
+}
