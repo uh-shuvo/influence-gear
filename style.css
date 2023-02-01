@@ -161,4 +161,31 @@ main {
     margin-top: 40px;
     text-align: right;
     color: #E02C6D;
+    margin-bottom: 80px;
+}
+
+/* .feature product start 
+========================= */
+.products {
+    display: flex;
+}
+
+.products-description {
+    margin-left: 80px;
+}
+
+.product-title {
+    font-size: 35px;
+}
+
+.product-details {
+    margin-bottom: 30px;
+}
+
+.button {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: #E02C6D;
+    border-radius: 3px;
 }
